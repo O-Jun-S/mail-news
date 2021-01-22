@@ -4,7 +4,7 @@ setup(
     name='mail-news',
     version='1.0',
     packages=['letter', 'mailer', 'news_api'],
-    url='',
+    url='https://github.com/O-Jun-S/mail-news',
     license='GNU',
     author='Ojun',
     author_email='jun.shima256@gmail.com',
