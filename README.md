@@ -20,3 +20,6 @@ First, what you have to do is setting data.
     the data about news-api from https://newsapi.org .
       
 Then, if you run the main.py, you can see the email.
+
+# Licence
+This project is under GNU licence.
